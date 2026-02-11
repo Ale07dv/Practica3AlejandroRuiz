@@ -1,4 +1,8 @@
 /bin/
 /.settings/
+<<<<<<< HEAD
 /.Project
+=======
+/.project
+>>>>>>> aeec7cd7162b0ebec1be9c56144092f122370579
 /.classpath
